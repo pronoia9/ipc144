@@ -1,0 +1,806 @@
+WELCOME TO CHECKOUT
+
+Main Menu:
+p-(p)lay  |  q-(q)uit  |  r-inst(r)uctions  |  s-HI(s)core
+Choose: p
+
+Enter number of warriors of light: 4
+Enter Soldier ID: @
+Enter Soldier ID: #
+Enter Soldier ID: $
+Enter Soldier ID: %
+
+Enter board size: 5
+
+ ___  ___  ___  ___  ___ 
+| @ ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 3
+Heads rolled: 2, 2, 6
+Long night is coming, better get a move on! Advancing 10 spaces
+
+You dont have any supplies to lose. You poor lad...
+ ___  ___  ___  ___  ___ 
+| # ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || @ || W ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 3, 5, 3
+Long night is coming, better get a move on! Advancing 11 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| $ ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || # || @ || W ||   |
+|___||___||___||___||___|
+
+$'s turn, how many heads will you try to roll: 1
+Heads rolled: 1
+Long night is coming, better get a move on! Advancing 1 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| % || $ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || # || @ || W ||   |
+|___||___||___||___||___|
+
+%'s turn, how many heads will you try to roll: 3
+Heads rolled: 2, 1, 6
+Long night is coming, better get a move on! Advancing 9 spaces
+
+Winter is coming. Better stock up! Here's an item: 73
+ ___  ___  ___  ___  ___ 
+| C || $ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || # || @ || % ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 3
+Heads rolled: 3, 4, 6
+Long night is coming, better get a move on! Advancing 13 spaces
+
+Your uncle has been stabbed to death. You just got your grand inheritance of 105 gold
+ ___  ___  ___  ___  ___ 
+| C || $ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || # || L || % ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 1
+Heads rolled: 2
+Long night is coming, better get a move on! Advancing 2 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C || $ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || % ||   |
+|___||___||___||___||___|
+
+$'s turn, how many heads will you try to roll: 3
+Heads rolled: 4, 2, 4
+Long night is coming, better get a move on! Advancing 10 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || $ || L || % ||   |
+|___||___||___||___||___|
+
+%'s turn, how many heads will you try to roll: 3
+Heads rolled: 6, 5, 4
+Long night is coming, better get a move on! Advancing 15 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || $ || L || W || % |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 1
+Heads rolled: 4
+Long night is coming, better get a move on! Advancing 4 spaces
+
+'$' doesn't have any supplies you can take. Poor lad won't last the winter...
+You spent 105 gold on Littlefinger's whores. More wine...
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || $ || @ || W || % |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 2, 3, 3
+Long night is coming, better get a move on! Advancing 8 spaces
+
+You dont have any supplies to lose. You poor lad...
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | # |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || $ || @ || W || % |
+|___||___||___||___||___|
+
+$'s turn, how many heads will you try to roll: 3
+Heads rolled: 2, 3, 4
+Long night is coming, better get a move on! Advancing 9 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | # |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || @ || W || % |
+|___||___||___||___||___|
+
+%'s turn, how many heads will you try to roll: 1
+Heads rolled: 2
+Long night is coming, better get a move on! Advancing 2 spaces
+
+'@' doesn't have any supplies you can take. Poor lad won't last the winter...
+Winter is coming. Better stock up! Here's an item: 56
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | # |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || @ || % ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 3
+Heads rolled: 2, 3, 2
+Long night is coming, better get a move on! Advancing 7 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || W || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | # |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || % ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 1, 6, 6
+Long night is coming, better get a move on! Advancing 13 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C || @ || # || W || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || % ||   |
+|___||___||___||___||___|
+
+$'s turn, how many heads will you try to roll: 1
+Heads rolled: 3
+Long night is coming, better get a move on! Advancing 3 spaces
+
+Your uncle has been stabbed to death. You just got your grand inheritance of 185 gold
+ ___  ___  ___  ___  ___ 
+| C || @ || # || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | $ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || % ||   |
+|___||___||___||___||___|
+
+%'s turn, how many heads will you try to roll: 3
+Heads rolled: 6, 6, 5
+Long night is coming, better get a move on! Advancing 17 spaces
+
+You spent 73 gold on Littlefinger's whores. More wine...
+ ___  ___  ___  ___  ___ 
+| C || @ || # || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | $ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || % || W ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 3
+Heads rolled: 5, 3, 1
+Long night is coming, better get a move on! Advancing 9 spaces
+
+A '%' always pays his debts (0 gold).
+Winter is coming. Better stock up! Here's an item: 72
+ ___  ___  ___  ___  ___ 
+| C ||   || # || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | $ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || % || @ ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 1
+Heads rolled: 2
+Long night is coming, better get a move on! Advancing 2 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || # |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | $ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || % || @ ||   |
+|___||___||___||___||___|
+
+$'s turn, how many heads will you try to roll: 3
+Heads rolled: 4, 3, 6
+Long night is coming, better get a move on! Advancing 13 spaces
+
+'#' doesn't have any supplies you can take. Poor lad won't last the winter...
+Winter is coming. Better stock up! Here's an item: 25
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || $ || # |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || % || @ ||   |
+|___||___||___||___||___|
+
+%'s turn, how many heads will you try to roll: 3
+Heads rolled: 4, 1, 1
+Long night is coming, better get a move on! Advancing 6 spaces
+
+When you play the game of thrones, you win or you die. Here are your funeral expenses: 0 gold
+
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || $ || # |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || @ ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 1
+Heads rolled: 2
+Long night is coming, better get a move on! Advancing 2 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || $ || # |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 2, 2, 4
+Long night is coming, better get a move on! Advancing 8 spaces
+
+Winter is coming. Better stock up! Here's an item: 67
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || $ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| # || @ || L || W ||   |
+|___||___||___||___||___|
+
+$'s turn, how many heads will you try to roll: 3
+Heads rolled: 6, 1, 6
+Long night is coming, better get a move on! Advancing 13 spaces
+
+When you play the game of thrones, you win or you die. Here are your funeral expenses: 210 gold
+
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| # || @ || L || W ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 1
+Heads rolled: 6
+Long night is coming, better get a move on! Advancing 6 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| # ||   || L || W ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 4, 2, 6
+Long night is coming, better get a move on! Advancing 12 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W || # |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 3
+Heads rolled: 6, 4, 3
+Long night is coming, better get a move on! Advancing 13 spaces
+
+Your uncle has been stabbed to death. You just got your grand inheritance of 164 gold
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W || # |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 1
+Heads rolled: 1
+Long night is coming, better get a move on! Advancing 1 spaces
+
+Winter is coming. Better stock up! Here's an item: 14
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || # ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 3
+Heads rolled: 5, 1, 3
+Long night is coming, better get a move on! Advancing 9 spaces
+
+Your uncle has been stabbed to death. You just got your grand inheritance of 167 gold
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || # ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 4, 3, 1
+Long night is coming, better get a move on! Advancing 8 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C || # ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 1
+Heads rolled: 4
+Long night is coming, better get a move on! Advancing 4 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C || # ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 3, 6, 3
+Long night is coming, better get a move on! Advancing 12 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 3
+Heads rolled: 2, 4, 1
+Long night is coming, better get a move on! Advancing 7 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   || @ || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 1
+Heads rolled: 1
+Long night is coming, better get a move on! Advancing 1 spaces
+
+Your uncle has been stabbed to death. You just got your grand inheritance of 165 gold
+ ___  ___  ___  ___  ___ 
+| C ||   || @ || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| # |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 3
+Heads rolled: 4, 4, 3
+Long night is coming, better get a move on! Advancing 11 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| # |               | W |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 5, 2, 3
+Long night is coming, better get a move on! Advancing 10 spaces
+
+HODOR....
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W || # |
+|___||___||___||___||___|
+
+@'s turn, how many heads will you try to roll: 1
+Heads rolled: 3
+Long night is coming, better get a move on! Advancing 3 spaces
+
+When you play the game of thrones, you win or you die. Here are your funeral expenses: 459 gold
+
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W || # |
+|___||___||___||___||___|
+
+#'s turn, how many heads will you try to roll: 3
+Heads rolled: 1, 5, 2
+Long night is coming, better get a move on! Advancing 8 spaces
+
+When you play the game of thrones, you win or you die. Here are your funeral expenses: 246 gold
+
+
+You are the god of t**s and wine '@'! You are now richer ($459.00 more) than a Lannister!
+
+Main Menu:
+p-(p)lay  |  q-(q)uit  |  r-inst(r)uctions  |  s-HI(s)core
+Choose: 3
+You know nothing. Try again: 

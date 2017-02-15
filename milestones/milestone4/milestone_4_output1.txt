@@ -1,0 +1,1884 @@
+OUTPUT #1 - Aug 1, 9:09 PM
+
+WELCOME TO CHECKOUT
+
+
+Main Menu:
+p-(p)lay  |  q-(q)uit  |  r-inst(r)uctions  |  s-HI(s)core
+Select: p
+
+Enter number of players: 4
+Enter player name: Jon Snow
+Enter player ID: @
+Enter player name: Tyrion Lannister
+Enter player ID: #
+Enter player name: Lord Varys
+Enter player ID: $
+Enter player name: Ned Stark
+Enter player ID: %
+
+Enter board size: 5
+
+ ___  ___  ___  ___  ___ 
+| @ ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 0  |  Items: (0 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 2, 2, 6
+Advancing 10 spaces
+You dont have any prizes to lose...
+Jon Snow's (@) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| # ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || @ || W ||   |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 3
+You rolled: 3, 5, 3
+Advancing 11 spaces
+You do nothing.
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| $ ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || # || @ || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 1, 3, 6
+Advancing 10 spacesYou were unable to steal from @
+
+You won a prize valued at $32
+Lord Varys's ($) Score: 32  |  Items: 32 (1 items)
+ ___  ___  ___  ___  ___ 
+| % ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || # || @ || $ ||   |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 0  |  Items: (0 items)
+Ned Stark's (%) turn, how many dice will you roll: 3
+You rolled: 1, 6, 1
+Advancing 8 spaces
+You do nothing.
+Ned Stark's (%) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || # || @ || $ || % |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 0  |  Items: (0 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 3, 4, 6
+Advancing 13 spaces
+You won a grand prize valued at $105
+Jon Snow's (@) Score: 105  |  Items: 105 (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || # || L || $ || % |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 1
+You rolled: 2
+Advancing 2 spaces
+You do nothing.
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || $ || % |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 32  |  Items: 32 (1 items)
+Lord Varys's ($) turn, how many dice will you roll: 1
+You rolled: 4
+Advancing 4 spacesYou were unable to steal from #
+
+You won a prize valued at $66
+Lord Varys's ($) Score: 98  |  Items: 32, 66 (2 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| $ ||   || L || W || % |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 0  |  Items: (0 items)
+Ned Stark's (%) turn, how many dice will you roll: 3
+You rolled: 5, 4, 4
+Advancing 13 spaces
+You dont have any prizes to lose...
+Ned Stark's (%) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | % |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| $ ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 105  |  Items: 105 (1 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 1, 3, 2
+Advancing 6 spacesYou were unable to steal from #
+You stole an item (66) from '$'
+You do nothing.
+Jon Snow's (@) Score: 171  |  Items: 105, 66 (2 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | % |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| # |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| $ || @ || L || W ||   |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 3
+You rolled: 3, 3, 2
+Advancing 8 spacesYou were unable to steal from %
+
+You do nothing.
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || # |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | % |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| $ || @ || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 32  |  Items: 32, (1 items)
+Lord Varys's ($) turn, how many dice will you roll: 1
+You rolled: 3
+Advancing 3 spaces
+You lost a prize valued at $32
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || # |
+|___||___||___||___||___|
+ ___                 ___                
+| $ |               | % |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 0  |  Items: (0 items)
+Ned Stark's (%) turn, how many dice will you roll: 1
+You rolled: 4
+Advancing 4 spaces
+You won a prize valued at $52
+Ned Stark's (%) Score: 52  |  Items: 52 (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || # |
+|___||___||___||___||___|
+ ___                 ___                
+| $ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || % ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 171  |  Items: 105, 66 (2 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 2, 1, 6
+Advancing 9 spacesYou were unable to steal from #
+
+You won a prize valued at $92
+Jon Snow's (@) Score: 263  |  Items: 105, 66, 92 (3 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ || # |
+|___||___||___||___||___|
+ ___                 ___                
+| $ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || % ||   |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 3
+You rolled: 3, 2, 1
+Advancing 6 spaces
+You dont have any prizes to lose...
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| $ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || # || % ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 2, 6, 6
+Advancing 14 spaces
+You do nothing.
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || # || % ||   |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 52  |  Items: 52 (1 items)
+Ned Stark's (%) turn, how many dice will you roll: 1
+You rolled: 5
+Advancing 5 spaces
+You won a grand prize valued at $179
+Ned Stark's (%) Score: 231  |  Items: 52, 179 (2 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| % |               | W |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || # || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 263  |  Items: 105, 66, 92 (3 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 1
+Advancing 1 spaces
+You do nothing.
+Jon Snow's (@) Score: 263  |  Items: 105, 66, 92 (3 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || @ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| % |               | W |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || # || W ||   |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 3
+You rolled: 2, 5, 5
+Advancing 12 spaces
+You won a prize valued at $29
+Tyrion Lannister's (#) Score: 29  |  Items: 29 (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || @ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| % |               | # |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 3, 6, 2
+Advancing 11 spaces
+You do nothing.
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || @ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| % |               | # |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W || $ |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 231  |  Items: 52, 179 (2 items)
+Ned Stark's (%) turn, how many dice will you roll: 3
+You rolled: 4, 1, 1
+Advancing 6 spacesYou stole an item (66) from '@'
+You won a prize valued at $31
+Ned Stark's (%) Score: 328  |  Items: 52, 179, 92, 31 (4 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || % || @ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | # |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W || $ |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 197  |  Items: 105, 92, (2 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 2
+Advancing 2 spacesYou stole an item (29) from '#'
+You lost a prize valued at $92
+Jon Snow's (@) Score: 134  |  Items: 105, 29, (2 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || % ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | @ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | # |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W || $ |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 0  |  Items: (0 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 1
+You rolled: 6
+Advancing 6 spaces
+You won a prize valued at $57
+Tyrion Lannister's (#) Score: 57  |  Items: 57 (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || % ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | @ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| # ||   || L || W || $ |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 4, 5, 4
+Advancing 13 spacesYou stole an item (29) from '@'
+You do nothing.
+Lord Varys's ($) Score: 29  |  Items: 29, (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || % || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | @ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| # ||   || L || W ||   |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 328  |  Items: 52, 179, 92, 31 (4 items)
+Ned Stark's (%) turn, how many dice will you roll: 3
+You rolled: 6, 6, 4
+Advancing 16 spaces
+You won a prize valued at $69
+Ned Stark's (%) Score: 397  |  Items: 52, 179, 92, 31, 69 (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || % || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | @ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| # ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 105  |  Items: 105, (1 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 4, 1, 1
+Advancing 6 spaces
+You do nothing.
+Jon Snow's (@) Score: 105  |  Items: 105, (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || % || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| # || @ || L || W ||   |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 57  |  Items: 57 (1 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 1
+You rolled: 6
+Advancing 6 spaces
+You do nothing.
+Tyrion Lannister's (#) Score: 57  |  Items: 57 (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   || # || % || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 29  |  Items: 29, (1 items)
+Lord Varys's ($) turn, how many dice will you roll: 1
+You rolled: 1
+Advancing 1 spaces
+You lost a prize valued at $29
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   || # || % ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | $ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 397  |  Items: 52, 179, 92, 31, 69 (5 items)
+Ned Stark's (%) turn, how many dice will you roll: 3
+You rolled: 3, 1, 4
+Advancing 8 spacesYou stole an item (105) from '@'
+You lost a prize valued at $105
+Ned Stark's (%) Score: 397  |  Items: 52, 179, 92, 31, 69, (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   || # || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | $ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || % || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 0  |  Items: (0 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 3, 6, 3
+Advancing 12 spaces
+You won a grand prize valued at $155
+Jon Snow's (@) Score: 155  |  Items: 155, (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   || # || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | $ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || % || W ||   |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 57  |  Items: 57 (1 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 3
+You rolled: 4, 1, 1
+Advancing 6 spaces
+You do nothing.
+Tyrion Lannister's (#) Score: 57  |  Items: 57 (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | $ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || % || W || # |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+Lord Varys's ($) turn, how many dice will you roll: 1
+You rolled: 6
+Advancing 6 spaces
+You do nothing.
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || $ || % || W || # |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 397  |  Items: 52, 179, 92, 31, 69, (5 items)
+Ned Stark's (%) turn, how many dice will you roll: 1
+You rolled: 4
+Advancing 4 spaces
+You won a grand prize valued at $131
+Ned Stark's (%) Score: 528  |  Items: 52, 179, 92, 31, 69, 131 (6 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| % |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || $ || L || W || # |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 155  |  Items: 155, (1 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 2, 3, 3
+Advancing 8 spaces
+You lost a prize valued at $155
+Jon Snow's (@) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| @ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| % |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || $ || L || W || # |
+|___||___||___||___||___|
+
+Tyrion Lannister's (#) Score: 57  |  Items: 57 (1 items)
+Tyrion Lannister's (#) turn, how many dice will you roll: 3
+You rolled: 2, 1, 5
+Advancing 8 spaces
+__
+  \_______
+   \++++++|
+    \=====|
+     0--- 0
+
+Tyrion Lannister (35) checked out for $57
+
+Tyrion Lannister's (#) Score: 57  |  Items: 57 (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| @ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| % |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || $ || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 2, 1, 6
+Advancing 9 spaces
+You do nothing.
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| @ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| % |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 528  |  Items: 52, 179, 92, 31, 69, 131 (6 items)
+Ned Stark's (%) turn, how many dice will you roll: 1
+You rolled: 5
+Advancing 5 spaces
+You won a prize valued at $57
+Ned Stark's (%) Score: 585  |  Items: 52, 179, 92, 31, 69, 131, 57 (7 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || % || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| @ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 0  |  Items: (0 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 2
+Advancing 2 spaces
+You do nothing.
+Jon Snow's (@) Score: 0  |  Items: (0 items)
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || % || $ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 0  |  Items: (0 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 2, 4, 4
+Advancing 10 spaces
+You won a grand prize valued at $134
+Lord Varys's ($) Score: 134  |  Items: 134, (1 items)
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || % ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Ned Stark's (%) Score: 585  |  Items: 52, 179, 92, 31, 69, 131, 57 (7 items)
+Ned Stark's (%) turn, how many dice will you roll: 3
+You rolled: 4, 6, 3
+Advancing 13 spaces
+__
+  \_______
+   \++++++|
+    \=====|
+     0--- 0
+
+Ned Stark (37) checked out for $585
+
+Ned Stark's (%) Score: 585  |  Items: 52, 179, 92, 31, 69, 131, 57 (7 items)
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 0  |  Items: (0 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 4, 3, 4
+Advancing 11 spaces
+You won a prize valued at $13
+Jon Snow's (@) Score: 13  |  Items: 13, (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| @ ||   || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 134  |  Items: 134, (1 items)
+Lord Varys's ($) turn, how many dice will you roll: 1
+You rolled: 3
+Advancing 3 spaces
+You do nothing.
+Lord Varys's ($) Score: 134  |  Items: 134, (1 items)
+ ___  ___  ___  ___  ___ 
+| C || $ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| @ ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 13  |  Items: 13, (1 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 6
+Advancing 6 spaces
+You do nothing.
+Jon Snow's (@) Score: 13  |  Items: 13, (1 items)
+ ___  ___  ___  ___  ___ 
+| C || $ || @ || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 134  |  Items: 134, (1 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 5, 4, 4
+Advancing 13 spaces
+You won a grand prize valued at $200
+Lord Varys's ($) Score: 334  |  Items: 134, 200 (2 items)
+ ___  ___  ___  ___  ___ 
+| C ||   || @ || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 13  |  Items: 13, (1 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 6, 2, 3
+Advancing 11 spaces
+You do nothing.
+Jon Snow's (@) Score: 13  |  Items: 13, (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| $ |               | W |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 334  |  Items: 134, 200 (2 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 2, 1, 4
+Advancing 7 spaces
+You lost a prize valued at $134
+Lord Varys's ($) Score: 200  |  Items: 200, (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | $ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 13  |  Items: 13, (1 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 6
+Advancing 6 spaces
+You won a prize valued at $73
+Jon Snow's (@) Score: 86  |  Items: 13, 73, (2 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | $ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 200  |  Items: 200, (1 items)
+Lord Varys's ($) turn, how many dice will you roll: 1
+You rolled: 1
+Advancing 1 spaces
+You won a prize valued at $11
+Lord Varys's ($) Score: 211  |  Items: 200, 11 (2 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | $ |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 86  |  Items: 13, 73, (2 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 3, 1, 2
+Advancing 6 spaces
+You won a prize valued at $50
+Jon Snow's (@) Score: 136  |  Items: 13, 73, 50 (3 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | $ |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || @ ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 211  |  Items: 200, 11 (2 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 5, 5, 3
+Advancing 13 spaces
+You won a prize valued at $41
+Lord Varys's ($) Score: 252  |  Items: 200, 11, 41 (3 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || $ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || @ ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 136  |  Items: 13, 73, 50 (3 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 2, 4, 2
+Advancing 8 spaces
+You do nothing.
+Jon Snow's (@) Score: 136  |  Items: 13, 73, 50 (3 items)
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || $ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 252  |  Items: 200, 11, 41 (3 items)
+Lord Varys's ($) turn, how many dice will you roll: 1
+You rolled: 2
+Advancing 2 spaces
+You lost a prize valued at $41
+Lord Varys's ($) Score: 211  |  Items: 200, 11, (2 items)
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | $ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 136  |  Items: 13, 73, 50 (3 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 4
+Advancing 4 spacesYou stole an item (11) from '$'
+You do nothing.
+Jon Snow's (@) Score: 147  |  Items: 13, 73, 50, 11 (4 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || @ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | $ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Lord Varys's ($) Score: 200  |  Items: 200, (1 items)
+Lord Varys's ($) turn, how many dice will you roll: 3
+You rolled: 5, 3, 3
+Advancing 11 spaces
+__
+  \_______
+   \++++++|
+    \=====|
+     0--- 0
+
+Lord Varys (36) checked out for $200
+
+Lord Varys's ($) Score: 200  |  Items: 200, (1 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W || @ |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 147  |  Items: 13, 73, 50, 11 (4 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 2, 4, 4
+Advancing 10 spaces
+You won a grand prize valued at $183
+Jon Snow's (@) Score: 330  |  Items: 13, 73, 50, 11, 183 (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 330  |  Items: 13, 73, 50, 11, 183 (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 5, 6, 4
+Advancing 15 spaces
+You do nothing.
+Jon Snow's (@) Score: 330  |  Items: 13, 73, 50, 11, 183 (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 330  |  Items: 13, 73, 50, 11, 183 (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 1
+Advancing 1 spaces
+You won a grand prize valued at $119
+Jon Snow's (@) Score: 449  |  Items: 13, 73, 50, 11, 183, 119 (6 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 449  |  Items: 13, 73, 50, 11, 183, 119 (6 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 3
+Advancing 3 spaces
+You do nothing.
+Jon Snow's (@) Score: 449  |  Items: 13, 73, 50, 11, 183, 119 (6 items)
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 449  |  Items: 13, 73, 50, 11, 183, 119 (6 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 2, 6, 6
+Advancing 14 spaces
+You lost a prize valued at $73
+Jon Snow's (@) Score: 376  |  Items: 13, 119, 50, 11, 183, (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| @ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 376  |  Items: 13, 119, 50, 11, 183, (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 4, 2, 6
+Advancing 12 spaces
+You do nothing.
+Jon Snow's (@) Score: 376  |  Items: 13, 119, 50, 11, 183, (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 376  |  Items: 13, 119, 50, 11, 183, (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 3, 3, 4
+Advancing 10 spaces
+You lost a prize valued at $11
+Jon Snow's (@) Score: 365  |  Items: 13, 119, 50, 183, (4 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | @ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 365  |  Items: 13, 119, 50, 183, (4 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 2
+Advancing 2 spaces
+You won a grand prize valued at $152
+Jon Snow's (@) Score: 517  |  Items: 13, 119, 50, 183, 152, (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | @ |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 517  |  Items: 13, 119, 50, 183, 152, (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 3
+Advancing 3 spaces
+You lost a prize valued at $50
+Jon Snow's (@) Score: 467  |  Items: 13, 119, 152, 183, (4 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || @ || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 467  |  Items: 13, 119, 152, 183, (4 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 2
+Advancing 2 spaces
+You won a prize valued at $90
+Jon Snow's (@) Score: 557  |  Items: 13, 119, 152, 183, 90, (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| @ ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 557  |  Items: 13, 119, 152, 183, 90, (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 2, 5, 3
+Advancing 10 spaces
+You won a prize valued at $60
+Jon Snow's (@) Score: 617  |  Items: 13, 119, 152, 183, 90, 60 (6 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | @ |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 617  |  Items: 13, 119, 152, 183, 90, 60 (6 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 5, 6, 4
+Advancing 15 spaces
+You lost a prize valued at $119
+Jon Snow's (@) Score: 498  |  Items: 13, 60, 152, 183, 90, (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | @ |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 498  |  Items: 13, 60, 152, 183, 90, (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 4, 2, 6
+Advancing 12 spaces
+You do nothing.
+Jon Snow's (@) Score: 498  |  Items: 13, 60, 152, 183, 90, (5 items)
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 498  |  Items: 13, 60, 152, 183, 90, (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 3, 2, 4
+Advancing 9 spaces
+You lost a prize valued at $60
+Jon Snow's (@) Score: 438  |  Items: 13, 90, 152, 183, (4 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || @ || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 438  |  Items: 13, 90, 152, 183, (4 items)
+Jon Snow's (@) turn, how many dice will you roll: 2
+You rolled: 4, 5
+Advancing 9 spaces
+You won a prize valued at $39
+Jon Snow's (@) Score: 477  |  Items: 13, 90, 152, 183, 39, (5 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 477  |  Items: 13, 90, 152, 183, 39, (5 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 4, 4, 1
+Advancing 9 spaces
+You won a prize valued at $35
+Jon Snow's (@) Score: 512  |  Items: 13, 90, 152, 183, 39, 35 (6 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| @ ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 512  |  Items: 13, 90, 152, 183, 39, 35 (6 items)
+Jon Snow's (@) turn, how many dice will you roll: 2
+You rolled: 1, 6
+Advancing 7 spaces
+You won a prize valued at $64
+Jon Snow's (@) Score: 576  |  Items: 13, 90, 152, 183, 39, 35, 64 (7 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 576  |  Items: 13, 90, 152, 183, 39, 35, 64 (7 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 4, 6, 4
+Advancing 14 spaces
+You do nothing.
+Jon Snow's (@) Score: 576  |  Items: 13, 90, 152, 183, 39, 35, 64 (7 items)
+ ___  ___  ___  ___  ___ 
+| C || @ ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 576  |  Items: 13, 90, 152, 183, 39, 35, 64 (7 items)
+Jon Snow's (@) turn, how many dice will you roll: 2
+You rolled: 5, 6
+Advancing 11 spaces
+You won a prize valued at $89
+Jon Snow's (@) Score: 665  |  Items: 13, 90, 152, 183, 39, 35, 64, 89 (8 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| @ ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 665  |  Items: 13, 90, 152, 183, 39, 35, 64, 89 (8 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 1
+Advancing 1 spaces
+You do nothing.
+Jon Snow's (@) Score: 665  |  Items: 13, 90, 152, 183, 39, 35, 64, 89 (8 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+| @ |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 665  |  Items: 13, 90, 152, 183, 39, 35, 64, 89 (8 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 5, 5, 4
+Advancing 14 spaces
+You do nothing.
+Jon Snow's (@) Score: 665  |  Items: 13, 90, 152, 183, 39, 35, 64, 89 (8 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 665  |  Items: 13, 90, 152, 183, 39, 35, 64, 89 (8 items)
+Jon Snow's (@) turn, how many dice will you roll: 2
+You rolled: 4, 4
+Advancing 8 spaces
+You won a prize valued at $24
+Jon Snow's (@) Score: 689  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24 (9 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 689  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24 (9 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 3
+Advancing 3 spaces
+You won a prize valued at $18
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | @ |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 1, 3, 1
+Advancing 5 spaces
+You do nothing.
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W || @ || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+Jon Snow's (@) turn, how many dice will you roll: 2
+You rolled: 5, 3
+Advancing 8 spaces
+Inventory is full...
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 3
+Advancing 3 spaces
+Inventory is full...
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | @ |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 3, 6, 4
+Advancing 13 spaces
+Inventory is full...
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || @ ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+Jon Snow's (@) turn, how many dice will you roll: 2
+You rolled: 4, 2
+Advancing 6 spaces
+Inventory is full...
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| L |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || @ ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 707  |  Items: 13, 90, 152, 183, 39, 35, 64, 89, 24, 18 (10 items)
+Jon Snow's (@) turn, how many dice will you roll: 1
+You rolled: 6
+Advancing 6 spaces
+You lost a prize valued at $64
+Jon Snow's (@) Score: 643  |  Items: 13, 90, 152, 183, 39, 35, 18, 89, 24, (9 items)
+ ___  ___  ___  ___  ___ 
+| C ||   ||   || W ||   |
+|___||___||___||___||___|
+ ___                 ___                
+| @ |               | L |               
+|___|               |___|               
+ ___                 ___                
+| G |               | W |               
+|___|               |___|               
+ ___                 ___                
+|   |               | G |               
+|___|               |___|               
+ ___  ___  ___  ___  ___ 
+| W ||   || L || W ||   |
+|___||___||___||___||___|
+
+Jon Snow's (@) Score: 643  |  Items: 13, 90, 152, 183, 39, 35, 18, 89, 24, (9 items)
+Jon Snow's (@) turn, how many dice will you roll: 3
+You rolled: 6, 5, 5
+Advancing 16 spaces
+__
+  \_______
+   \++++++|
+    \=====|
+     0--- 0
+
+Jon Snow (64) checked out for $643
+
+Jon Snow's (@) Score: 643  |  Items: 13, 90, 152, 183, 39, 35, 18, 89, 24, (9 items)
+
+Main Menu:
+p-(p)lay  |  q-(q)uit  |  r-inst(r)uctions  |  s-HI(s)core
+Select: 
